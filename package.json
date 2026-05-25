@@ -1,0 +1,8 @@
+{
+  "name": "nexuscrm",
+  "version": "1.0.0",
+  "description": "NexusCRM - AI-native CRM demo",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
